@@ -1,0 +1,22 @@
+{
+  "name": "rgb",
+  "version": "1.0.0",
+  "description": "MERN RGB LeatherCrafts website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjaybernardo/rgbleathercrafts.git"
+  },
+  "author": "Raphael Jay Bernardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjaybernardo/rgbleathercrafts/issues"
+  },
+  "homepage": "https://github.com/rjaybernardo/rgbleathercrafts#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
