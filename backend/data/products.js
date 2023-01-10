@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Leather Training Catch Bag",
     image: "/images/catch_bag.png",
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "2",
     name: "Leather Takera",
     image: "/images/takera.png",
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "Leather Tari Sheath",
     image: "/images/tari_sheath.png",
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "Custom Leather Tari Case",
     image: "/images/tari_case.png",
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "Leather Arm Protector",
     image: "/images/arm_protector.png",
     description:
